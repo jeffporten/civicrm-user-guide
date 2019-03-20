@@ -27,7 +27,7 @@ working practices, so it is important to work closely with the people
 within your organisation who will have day-to-day responsibility for
 managing memberships using CiviCRM as you develop your plans.
 
-Memberships can run from a day to a lifetime, they be free or paid, and
+Memberships can run from a day to a lifetime, they can be free or paid, and
 have simple or complex pricing structures. They can be set up to
 auto-renew where a compatible payment processor is enabled.
 
